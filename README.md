@@ -21,7 +21,7 @@
 
 ## Running this project
 
-1. Install and open 'Martial Arts Combo Recognition.py'
+1. Install and open 'martial_arts_combo_recognition.py'
 2. Install all images marked 'frame(#)' and the keras model
 3. Replace <MODEL_FILEPATH> with the file path of the model
 4. Replace <IMAGE_FILEPATH> with the file path of the image folder
