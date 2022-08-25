@@ -28,4 +28,5 @@
 5. Correct the number of frames to the amount of images installed
 7. Run the code! (It will output a list of combos if done correctly)
 
-[video link]
+Installation Instruction Video
+https://youtu.be/XiufgtHluj0
